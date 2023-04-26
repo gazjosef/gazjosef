@@ -4,7 +4,11 @@
 <h1 align="center">Hi 👋, I'm Gareth </h1>
 <h3 align="center">Front-End Designer, Developer and Deployer</h3>
 
-### Hi there 👋
+ <div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gazjosef" alt="Gift's LangStat" />
+   <br>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gazjosef&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
 
 <!--
 **gazjosef/gazjosef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
