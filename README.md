@@ -2,7 +2,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Gareth </h1>
-<h3 align="center">Front-End Designer, Developer and Deployer</h3>
+<h3 align="center">Designer, Developer and Deployer</h3>
 
  <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gazjosef" alt="Gift's LangStat" />
