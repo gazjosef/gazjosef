@@ -2,7 +2,9 @@
  
 
 <h1 align="center">Hi 👋, I'm Gareth </h1>
-<h3 align="center">Designer, Developer and Deployer</h3>
+<h3 align="center">"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
+
+</h3>
 
  <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gazjosef" alt="Gift's LangStat" />
