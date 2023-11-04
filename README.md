@@ -2,7 +2,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Gareth </h1>
-<h3 align="center">"Programming isn't about what you know; it's about what you can figure out." – Chris Pine
+<h3 align="center">"Programming isn't about what you know; it's about what you can figure out."
 
 </h3>
 
